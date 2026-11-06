@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build artifacts
+build/
+dist/
+*.exe
+*.spec
+
+# Relatórios gerados durante testes
+Relatorios/
+*.xlsx
+*.csv
+
+# ARQUIVO PRIVADO DE GESTÃO DE LICENÇAS (NÃO SUBIR)
+gerador_licencas.html
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# Configurações de IDE e Sistema
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
